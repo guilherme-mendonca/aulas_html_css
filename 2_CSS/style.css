@@ -1,0 +1,16 @@
+h2 {
+    color: yellowgreen;   
+}
+
+h3 {
+    color: brown;
+}
+
+/* 6 - classes para criar sempre começamos com ponto */
+.paragrafos {
+    background-color: bisque;
+}
+
+.cor-texto {
+    color: indigo;
+}
